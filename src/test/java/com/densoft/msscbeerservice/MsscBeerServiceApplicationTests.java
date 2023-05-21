@@ -1,10 +1,10 @@
-package com.densoft.msscbearservice;
+package com.densoft.msscbeerservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MsscBearServiceApplicationTests {
+class MsscBeerServiceApplicationTests {
 
 	@Test
 	void contextLoads() {

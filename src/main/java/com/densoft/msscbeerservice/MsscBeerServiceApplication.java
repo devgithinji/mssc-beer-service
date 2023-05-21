@@ -1,13 +1,13 @@
-package com.densoft.msscbearservice;
+package com.densoft.msscbeerservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MsscBearServiceApplication {
+public class MsscBeerServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MsscBearServiceApplication.class, args);
+		SpringApplication.run(MsscBeerServiceApplication.class, args);
 	}
 
 }

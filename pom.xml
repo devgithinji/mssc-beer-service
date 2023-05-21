@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.densoft</groupId>
-	<artifactId>mssc-bear-service</artifactId>
+	<artifactId>mssc-beer-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>mssc-bear-service</name>
-	<description>mssc-bear-service</description>
+	<name>mssc-beer-service</name>
+	<description>mssc-beer-service</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
