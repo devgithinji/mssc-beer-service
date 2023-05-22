@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: circleci/openjdk:17.0
+      - image: circleci/openjdk:15.0
 
     working_directory: ~/repo
     environment:
