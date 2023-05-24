@@ -1,7 +1,6 @@
 package com.densoft.msscbeerservice.services;
 
 import com.densoft.msscbeerservice.web.model.BeerDto;
-import org.springframework.http.ResponseEntity;
 
 import java.util.UUID;
 
